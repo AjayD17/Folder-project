@@ -1,0 +1,47 @@
+{
+  "title": "Annual Inter-School Sports Events - 2025",
+  "location": "Greenfield Stadium, Chennai",
+  "date": "2025-12-10",
+  "events": [
+    {
+      "event_id": 1,
+      "event_name": "100m Sprint",
+      "category": "Track",
+      "participants": 8,
+      "scheduled_time": "09:00 AM"
+    },
+    {
+      "event_id": 2,
+      "event_name": "Long Jump",
+      "category": "Field",
+      "participants": 6,
+      "scheduled_time": "10:00 AM"
+    },
+    {
+      "event_id": 3,
+      "event_name": "Shot Put",
+      "category": "Field",
+      "participants": 5,
+      "scheduled_time": "11:30 AM"
+    },
+    {
+      "event_id": 4,
+      "event_name": "Relay Race (4x100m)",
+      "category": "Track",
+      "participants": 4,
+      "scheduled_time": "01:00 PM"
+    },
+    {
+      "event_id": 5,
+      "event_name": "High Jump",
+      "category": "Field",
+      "participants": 6,
+      "scheduled_time": "02:30 PM"
+    }
+  ],
+  "organizer": {
+    "name": "District Sports Committee",
+    "contact_email": "contact@sportscommittee.org",
+    "phone": "+91-9876543210"
+  }
+}
